@@ -1,0 +1,4 @@
+*.o
+*.out
+m5out*
+build/
